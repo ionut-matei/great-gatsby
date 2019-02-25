@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{143:function(n,t,e){"use strict";e.r(t),e.d(t,"default",function(){return c});var r=e(7),o=e.n(r),i=e(0),u=e.n(i),c=function(n){function t(t){return n.call(this,t)||this}return o()(t,n),t.prototype.render=function(){return u.a.createElement("h1",null,"This is a client only page.")},t}(u.a.Component)}}]);
+//# sourceMappingURL=component---src-pages-client-only-page-js-7420cc0ddaad297c79e4.js.map
